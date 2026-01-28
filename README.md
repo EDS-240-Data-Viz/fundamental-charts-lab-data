@@ -4,8 +4,7 @@ This collection contains 7 datasets for students to  explore, and  visualize wit
 
 ###  Datasets
 
-| Dataset Name | Source | Key Metrics |
-|--------------|--------|-------------|
+
 | Dataset Name | Folder | Source | Key Metrics |
 |--------------|--------|--------|-------------|
 | [European Vehicle CO2 Emissions](https://www.eea.europa.eu/en/datahub/datahubitem-view/5d252092-d328-40d8-bca2-c0734bd6143b) | `vehicle_emissions_europe` | EEA | CO2 g/km, Fuel Type, Mass |
