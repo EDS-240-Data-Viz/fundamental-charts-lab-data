@@ -13,5 +13,5 @@ This collection contains 7 datasets for students to  explore, and  visualize wit
 | [Atmospheric CO2 at Mauna Loa](https://gml.noaa.gov/ccgg/trends/data.html) | `MaunaLoa_CO2` | NOAA | Monthly CO2 (ppm) |
 | [NA & Greenland Snow Cover Extent](https://www.ncei.noaa.gov/access/monitoring/snow-and-ice-extent/snow-cover/namgnld/12) | `snow_cover_extent` | NCEI | Million km² Coverage |
 | [Spain Wildfire Dynamics (Joined)](https://gwis.jrc.ec.europa.eu/apps/gwis.statistics/seasonaltrend) | `spain_fires` | GWIS | Burnt Area, Emissions, Fire Count |
-| [Global Energy & Economic Growth](https://github.com/owid/energy-data) | `globa_energy` | OWID | Renewables, GDP, Consumption |
+| [Global Energy & Economic Growth](https://github.com/owid/energy-data) | `global_energy` | OWID | Renewables, GDP, Consumption |
 ---
